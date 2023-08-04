@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/valinamendonca/valinamendonca.github.io/static/css/main.2a4f97dd.css",
+    "main.js": "/valinamendonca/valinamendonca.github.io/static/js/main.6bd37c92.js",
+    "static/js/787.1ed0c42c.chunk.js": "/valinamendonca/valinamendonca.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/pms.jpg": "/valinamendonca/valinamendonca.github.io/static/media/pms.e9f84b517dc0fc9725c8.jpg",
+    "static/media/p2.jpg": "/valinamendonca/valinamendonca.github.io/static/media/p2.a2821045bd9b419c1c42.jpg",
+    "static/media/contact.jpg": "/valinamendonca/valinamendonca.github.io/static/media/contact.3ff1831cb3f10e8585d2.jpg",
+    "static/media/e-com.jpg": "/valinamendonca/valinamendonca.github.io/static/media/e-com.6ac0d0e331748ba84eb1.jpg",
+    "static/media/back2.jpg": "/valinamendonca/valinamendonca.github.io/static/media/back2.f100e5ec11b4eb6bf10d.jpg",
+    "static/media/react.png": "/valinamendonca/valinamendonca.github.io/static/media/react.6bcffb56bd0efaa47767.png",
+    "static/media/php.png": "/valinamendonca/valinamendonca.github.io/static/media/php.144ab506ddba211b3555.png",
+    "static/media/js.png": "/valinamendonca/valinamendonca.github.io/static/media/js.83b736c551efc828bfea.png",
+    "static/media/html.png": "/valinamendonca/valinamendonca.github.io/static/media/html.a92a549a591f4acb527a.png",
+    "static/media/nodejs.svg": "/valinamendonca/valinamendonca.github.io/static/media/nodejs.615ffbea9529ca7047ed8a912bfd94b2.svg",
+    "index.html": "/valinamendonca/valinamendonca.github.io/index.html",
+    "main.2a4f97dd.css.map": "/valinamendonca/valinamendonca.github.io/static/css/main.2a4f97dd.css.map",
+    "main.6bd37c92.js.map": "/valinamendonca/valinamendonca.github.io/static/js/main.6bd37c92.js.map",
+    "787.1ed0c42c.chunk.js.map": "/valinamendonca/valinamendonca.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a4f97dd.css",
+    "static/js/main.6bd37c92.js"
+  ]
+}
